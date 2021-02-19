@@ -1,0 +1,7 @@
+# Compiled source #
+###################
+__pycache__/
+
+# Large Dataset #
+#################
+data/
