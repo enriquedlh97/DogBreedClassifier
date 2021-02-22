@@ -1,5 +1,5 @@
 # DogBreedClassifier
-_Final project TI2022 - Dog Breed classifier app for local Veterinary_
+_Model used for the final project of TI2022 - Dog Breed classifier app for local Veterinary_
 
 ## Getting started 🚀
 
