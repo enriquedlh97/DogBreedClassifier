@@ -3,7 +3,21 @@ _Final project TI2022 - Dog Breed classifier app for local Veterinary_
 
 ## Getting started 🚀
 
-_Instructions to get a working copy of the project._
+To get started make sure you set up the anaconda environment from the .yml file.
+
+```bash
+conda env create -f environment.yml
+```
+
+Make sure you activate the environment. 
+```bash
+conda activate myenv
+```
+
+And verify that it was properly installed.
+```bash
+conda env list
+```
 
 
 ### Pre-requisites 📋
