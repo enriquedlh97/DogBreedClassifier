@@ -5,7 +5,7 @@ A model for classifying 120 Dog Breeds built using the [EfficientNet-B3](https:/
 
 ## Getting started 🚀
 
-In order to get a working environment there are two possible options. 
+To get a working environment there are two possible options. 
 
 1. Create a conda environment with the listed pre-requisites
 2. Create a conda environment from the .yml file
@@ -15,7 +15,12 @@ In order to get a working environment there are two possible options.
 _Software and dependencies needed_
 
 ```
-Da un ejemplo
+pytorch-1.7.0
+tqdm
+torchvision
+numpy
+tensorflow
+tensorflow_hub
 ```
 
 ### Installation 🔧
