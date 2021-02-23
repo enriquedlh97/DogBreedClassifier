@@ -16,11 +16,9 @@ _Software and dependencies needed_
 
 ```
 pytorch-1.7.0
-tqdm
-torchvision
-numpy
-tensorflow
-tensorflow_hub
+tqdm-4.54.1
+torchvision-0.8.1
+numpy-1.19.2
 ```
 
 ### Installation 🔧
@@ -33,7 +31,7 @@ conda env create -f environment.yml
 
 Make sure you activate the environment. 
 ```bash
-conda activate myenv
+conda activate DogNet
 ```
 
 And verify that it was properly installed.
