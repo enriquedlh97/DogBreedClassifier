@@ -1,6 +1,8 @@
 # DogBreedClassifier
 _Model used for the final project of TI2022 - Dog Breed classifier app for local Veterinary_
 
+A model for classifying 120 Dog Breeds built using the [EfficientNet-B3](https://tfhub.dev/tensorflow/efficientnet/b3/feature-vector/1) feature vector pre-trained on Imagenet (ILSVRC-2012-CLS) and fine-tuned for the task at hand. The model achieves an overall accuracy of 86.7%
+
 ## Getting started 🚀
 
 In order to get a working environment there are two possible options. 
