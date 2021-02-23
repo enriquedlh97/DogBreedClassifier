@@ -34,7 +34,9 @@ And verify that it was properly installed.
 conda env list
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+## Data
+
+The dataset used to train the model was the [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) which contains 20,580 images with a total of 120 dog breeds.
 
 ## Authors ✒️
 
