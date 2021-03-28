@@ -43,9 +43,6 @@ conda env list
 
 The dataset used to train the model was the [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) which contains 20,580 images with a total of 120 dog breeds.
 
-## Authors ✒️
-
-* **Enrique Díaz de León Hicks** - [enriquedlh97](https://github.com/enriquedlh97) 
 
 ## Acknowledgments 🎁
 
